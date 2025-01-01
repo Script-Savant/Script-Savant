@@ -1,6 +1,6 @@
 #  **Alex Njuguna Kinuthia's profile**
 
-- 👋 Hi, I’m **Alex Njuguna Kinuthia**
+- 👋 Hi, I’m **Alex Kinuthia**
 - 👀 I’m interested in:
     - `Solutions` and `Systems Design` & `Development`
     - `Data Science` and `analytics`.
@@ -21,9 +21,9 @@
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-njuguna&layout=compact)](https://github.com/alex-njuguna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Script-Savant&layout=compact)](https://github.com/alex-njuguna/github-readme-stats)
 
 ### Projects
-- [Study Portal](https://github.com/alex-njuguna/study-portal)
-- [Real Estate Price Prediction](https://github.com/alex-njuguna/Real-Estate-price-prediction)
+- [Study Portal](https://github.com/Script-Savant/study-portal)
+- [Real Estate Price Prediction](https://github.com/Script-Savant/Real-Estate-price-prediction)
 
