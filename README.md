@@ -9,15 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Data Science & ML, .NET and associated techologies**
 
-- 👨‍💻 All of my projects are available at - [**portfolio**](https://alex-njuguna.vercel.app/projects) or [**github**](https://github.com/Script-Savant)
+- 👨‍💻 All of my projects are available at - [**portfolio**](https://script-savant.github.io/) or [**github**](https://github.com/Script-Savant)
 
-- 📝 I regularly write articles on - [**my blog**](https://alex-njuguna.vercel.app/posts/)
+- 💬 Ask me about `Linux, Django, SQL, .NET`
 
-- 💬 Ask me about `Linux, Django, SQL`
+- 📫 How to reach me - [**contact**](https://script-savant.github.io/)
 
-- 📫 How to reach me - [**contact**](https://alex-njuguna.vercel.app/contact/)
-
-- 📄 Know about my experiences - [**resume**](https://alex-njuguna.vercel.app/resume/)
+- 📄 Know about my experiences - [**resume**](https://script-savant.github.io/)
 
 <hr>
 
