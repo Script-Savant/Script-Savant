@@ -3,15 +3,15 @@
 <h3 align="center">A passionate full stack developer from Kenya</h3>
 <img align="right" alt="nicce looking gif" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
-- 🔭 I’m currently working on **Data Science, ML, .NET**
+- 🔭 I’m currently working on **Escrow Systems Development & Processing Small Transactions**
 
-- 🌱 I’m currently learning **Data Science & ML, .NET and associated techologies**
+- 🌱 I’m currently learning **Solana, Rust & Golang**
 
-- 👯 I’m looking to collaborate on **Data Science & ML, .NET and associated techologies**
+- 👯 I’m looking to collaborate on **Building Smart Contracts on Solana**
 
-- 👨‍💻 All of my projects are available at - [**portfolio**](https://script-savant.github.io/) or [**github**](https://github.com/Script-Savant)
+- 👨‍💻 Some of my projects are available at - [**portfolio**](https://script-savant.github.io/) or [**github**](https://github.com/Script-Savant)
 
-- 💬 Ask me about `Linux, Django, SQL, .NET`
+- 💬 Ask me about `Linux, Databases, Cloud, Building Scalable apps and dApps`
 
 - 📫 How to reach me - [**contact**](https://script-savant.github.io/)
 
